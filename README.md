@@ -22,7 +22,8 @@ During my training as part of the Digital Egypt Pioneers Initiative, I completed
 - Data Cleaning & Analysis
 
 ## 🔹 Dashboard Preview
-![Customer Churn Dashboard](Customer Churn Analysis Project Excel/Dashboard.png)
+![Customer Churn Dashboard](Customer-Churn-Analysis-Excel/Dashboard.png)
+
 
 > Replace `dashboard.png` with the actual file name of your dashboard image in the repository.
 
