@@ -22,7 +22,7 @@ During my training as part of the Digital Egypt Pioneers Initiative, I completed
 - Data Cleaning & Analysis
 
 ## 🔹 Dashboard Preview
-![Customer Churn Dashboard](Dashboard.png)
+![Customer Churn Dashboard](Customer-Churn-Analysis-Excel/Dashboard.png)
 
 
 ## 🎯 Project Impact
