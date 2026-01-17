@@ -25,6 +25,7 @@ During my training as part of the Digital Egypt Pioneers Initiative, I completed
 ![Customer Churn Dashboard](Customer-Churn-Analysis-Excel/Dashboard.png)
 
 
+
 ## 🎯 Project Impact
 This project helped me apply data-driven analysis and turn insights into actionable recommendations to improve customer retention.
 
