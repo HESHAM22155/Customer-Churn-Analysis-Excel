@@ -25,8 +25,6 @@ During my training as part of the Digital Egypt Pioneers Initiative, I completed
 ![Customer Churn Dashboard](Customer-Churn-Analysis-Excel/Dashboard.png)
 
 
-> Replace `dashboard.png` with the actual file name of your dashboard image in the repository.
-
 ## 🎯 Project Impact
 This project helped me apply data-driven analysis and turn insights into actionable recommendations to improve customer retention.
 
